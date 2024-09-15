@@ -1,0 +1,392 @@
+body{
+    font-family: sans-serif;
+}
+
+#playButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#video{
+    position: absolute;
+    left: 450px;
+    top: 30px;
+}
+.con{
+    width : 20px;
+    height: 25px;
+    border:3px solid black;
+    border-radius: 50%;
+    position: relative;
+    display: inline-block;
+}
+.size{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 3px;
+}
+
+.med{
+ font-size: 20px;
+ font-weight: bold;
+ margin: 0;
+ display: inline-block;
+ margin-top: 8px;
+  margin-left: 3px;
+}
+.logo{
+    display: flex;
+}
+.ed{
+    color: gray;
+}
+.last{
+    font-size: 13px;
+    display: inline-block;
+    margin-right: 20px;
+
+}
+.group{
+    display: inline-block;
+    margin-left: 100px;
+}
+.last-n{
+    font-size: 15px;
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.log{
+    font-size: 13px;
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 15px; 
+}
+.log-in{
+    background-color: black;
+    color: white;
+}
+
+.login{
+    background-color: white;
+    color: black;
+}
+.care{
+    width: 400px;
+    display: inline-block;
+    position: relative;
+}
+.cre{
+    width: 400px;
+    margin-left: 400px;
+    position: absolute;
+}
+.sup{
+    width: 400px;
+    font-weight: bold;
+    display: inline-block;
+}
+.rior{
+    width: 400px;
+    display: inline-block;
+}
+.exe{
+    font-size: 13px;
+    display: inline-block;
+    width: 400px;
+}
+.cise{
+    background-color: black;
+    color: white;
+    margin-left: 0px; 
+}
+.button-book{
+    display: inline-block;
+    width: 400px;
+    margin-top: 10px;
+}
+.book-now{
+    background-color: black;
+    color:aliceblue;
+}
+.out{
+   width: 500px;
+   height: 110px;
+   background-color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   margin-left: 50px;
+    margin-top: 30px;
+}
+.in{
+    width: 120px;
+    height: 70px;
+    border-right: 3px solid white;
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    font-size: 10px;
+}
+.in-tell{
+    width: 120px;
+    height: 70px;
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    font-size: 10px;
+}
+.led{
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 200px;  
+    width:400px;
+}
+.ged{
+    color: gray; 
+}
+.doom{
+    width: 200px;
+    height: 110px;
+    border-right: 15px solid white;
+    text-align: center;
+    display: inline-block;
+}
+.img2{
+width: 40px;
+height: 40px;
+border-radius: 50%;
+margin-top: 8px;
+margin-left: 25px;
+}
+.box{
+    text-align: center;
+    font-size: 8px;
+    font-weight: bold;
+}
+.box-in{
+    text-align: center;
+    font-size: 5px;
+}
+.pox{
+    display: flex;
+    margin-left:50px ;
+    width: 800px;
+    height: 110px;
+    background-color: gray;
+    justify-content:space-between;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    margin-left:50px;
+    width:800px;
+    height: 80px;
+    background-color: gray;
+    margin-top: 50px;
+}
+.key{
+    width: 133px;
+    height: 80px;
+    border-right: 15px solid white;
+    text-align: center;
+    display: inline-block;
+}
+.sent{
+    display: inline-block;
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 25px;
+    margin-left:50px ;
+}
+.doc{
+    display: flex;
+    margin-left:50px;
+    width:800px;
+    height: 80px;
+    background-color: gray;
+    margin-top: 3px; 
+}
+.act{
+    width: 200px;
+    height: 80px;
+    border-right: 15px solid white;
+    text-align: center;
+    display: inline-block; 
+}
+.or{
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 15px;
+}
+.lable{
+    text-align: center;
+    font-size: 8px;
+}
+.blue{
+    display: flex;
+    margin-left:50px ;
+    width: 800px;
+    height: 110px;
+    background-color: gray;
+}
+.side{
+    width: 200px;
+    height: 110px;
+    border-right: 15px solid white;
+    display: inline-block; 
+}
+.img3{
+    width: 40px;
+    height: 40px;
+    margin-top: 8px;
+}
+.name{
+    font-weight: bold;
+    color:aliceblue;
+    font-size:10px;
+}
+.nice{
+    font-size: 8px;
+    color: aliceblue;
+}
+.prof{
+    display: flex;
+    margin-left:50px ;
+    width: 800px;
+    height: 110px;
+    background-color:aliceblue
+}
+.file{
+   text-align: center;
+   color: white;
+   width: 200px;
+   height: 110px;
+}
+.img4{
+    width: 40px;
+    height: 40px;
+    margin-top: 8px;
+}
+.fee{
+    text-align: center;
+    font-size: 10px;
+    color: black;
+}
+.flix{
+    text-align: center;
+    font-size:8px;
+    color: black;
+}
+.green{
+    width: 400px;
+    font-weight: bold;
+    display: inline-block;
+}
+.left{
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    margin-top: 30px;
+}
+.img5{
+    width: 400px;
+    display:flex;  
+}
+.yellow{
+    width: 400px;  
+}
+.het{
+    width: 400px;
+}
+.takes{
+    width: 400px;  
+}
+.gey{
+    width: 400px;
+    margin-top: 100px;
+    display: inline-flex;   
+}
+.abso{
+    margin-left:20px;
+}
+.brown{
+    width: 400px;
+    display: flex;
+    border-right: 50px solid white;
+}
+.stripe{
+    width: 200px;
+    background-color: gray;
+}
+.img6{
+    width: 50px;
+    height: 50px;
+    margin-top: 8px;
+}
+.bot{
+    width: 400px;
+    display: flex;
+    margin-top: 30px;
+}
+.meet{
+    width: 600px;
+    display: flex;
+    margin-top: 30px;
+    background-color:rgb(90, 105, 117);
+}
+.just{
+    margin-left: 10px;
+}
+.rate{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.finish{
+    display: flex; 
+    margin-top: 30px;
+}
+.ish{
+    width: 300px;
+    display: inline-block;
+    margin-top: 5px;
+
+}
+.img7{
+    width: 20px;
+    border-radius: 50%;
+}
+.row{
+    display: flex;
+    margin-left: 50px;
+    display: inline-block;
+
+}
+.bld{
+    font-weight: bold;
+    font-size: 8px;
+}
+.down{
+    font-size: 5px;
+    display: inline-block;
+}
+.were{
+    display: flex;
+    margin: 0px;
+    display: inline-block;
+}
+.big{
+    display: flex;
+    margin-left: 100px;
+    display: inline-block;
+}
+.small{
+    display: flex;
+    margin-left: 120px;
+    display: inline-block;
+}
